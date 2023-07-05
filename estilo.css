@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .container video {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+
+  footer {
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .boton-personalizado {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+
+  main, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+  
